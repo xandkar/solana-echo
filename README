@@ -1,5 +1,5 @@
-solana echo
-===========
+solana echo dynamic
+===================
 
 In hello-world[1], the program simply logs that it has received something from
 the client, but does nothing else, for any instruction data whatsoever.
